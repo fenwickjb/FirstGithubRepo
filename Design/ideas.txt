@@ -1,4 +1,4 @@
 Design ideas
 ------------
 1/13 - keep a design ideas file
-
+1/13 - can use images in folder too!
