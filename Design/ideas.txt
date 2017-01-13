@@ -3,3 +3,4 @@ Design ideas
 1/13 - keep a design ideas file
 1/13 - can use images in folder too!
 1/13 - think of more later!
+1/13 - add motivational quotes
